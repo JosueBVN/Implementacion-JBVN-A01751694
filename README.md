@@ -1,4 +1,4 @@
-# Implementacion-JBVN-A01751694
+# Capeta de Proyectos-JBVN-A01751694
 GitHub para guardar trabajos de portafolio de Implementación por Josué Bernardo Villegas Nuño - A01751694 
 
 **Requisitos: A01751694_EMAPP_Analisis y A01751694_PDM_Implemen**
@@ -25,7 +25,7 @@ GitHub para guardar trabajos de portafolio de Implementación por Josué Bernard
 **Licencia:**
 - Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para obtener más detalles.
 
-**Requisitos: Proyecto A01751694_modulo2**
+**Requisitos: Proyecto A01751694_modulo2_Implementacion**
 
 **Dependencias:**
 - [Google Colab](https://colab.research.google.com/): Asegúrate de tener acceso a Google Colab para ejecutar el código.
@@ -57,5 +57,3 @@ GitHub para guardar trabajos de portafolio de Implementación por Josué Bernard
 
 **Notas:**
 - Asegúrate de tener suficiente espacio de almacenamiento en Google Drive para guardar modelos y datos generados durante el entrenamiento.
-
-Espero que esta descripción sea útil. ¿Hay algo más en lo que pueda ayudarte?
